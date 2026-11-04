@@ -150,7 +150,7 @@ ${lines.join('\n')}
   const tiles = [
     ['37', 'text effects shipped', '★'],
     ['v2.7.2', 'latest app release', '■'],
-    ['41', 'public repos', '✦'],
+    ['42', 'public repos', '✦'],
     ['2018', 'on github since', '❯'],
   ];
   const body = tiles
@@ -163,7 +163,7 @@ ${decrypt(x + 20, 70, v, 36, 0.2 + i * 0.35, { stagger: 0.07 })}
 <text x="${x + 20}" y="100" font-size="13" fill="${C.dim}">${esc(label)}</text>`;
     })
     .join('\n');
-  writeFileSync(join(root, 'assets/stats.svg'), `${head(W, H, 'Highlights: 37 effects shipped, v2.7.2 latest release, 41 public repos, on GitHub since 2018')}\n${body}\n</svg>`);
+  writeFileSync(join(root, 'assets/stats.svg'), `${head(W, H, 'Highlights: 37 effects shipped, v2.7.2 latest release, 42 public repos, on GitHub since 2018')}\n${body}\n</svg>`);
 }
 
 // ---------- project cards ----------

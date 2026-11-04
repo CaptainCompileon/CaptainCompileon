@@ -1,6 +1,6 @@
 <a href="https://github.com/CaptainCompileon"><img src="assets/header.svg" width="100%" alt="Adam Samko — frontend engineer in Prague"></a>
 
-<img src="assets/stats.svg" width="100%" alt="37 effects shipped · v2.7.2 latest release · 41 public repos · on GitHub since 2018">
+<img src="assets/stats.svg" width="100%" alt="37 effects shipped · v2.7.2 latest release · 42 public repos · on GitHub since 2018">
 
 ### ❯ latest projects
 
